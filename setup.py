@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="Sivant",
-    version="0.0.1",
+    version="0.0.2",
     description="A Python package to get weather reports for any location.",
     long_description=readme(),
     long_description_content_type="text/markdown",
@@ -20,7 +20,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=["Sivant"],
+    packages=["Sivant_Hello"],
     include_package_data=True,
     # entry_points={
     #     "console_scripts": [
