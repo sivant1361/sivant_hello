@@ -24,7 +24,8 @@ setup(
     include_package_data=True,
     # entry_points={
     #     "console_scripts": [
-    #         "weather-reporter=weather_reporter.cli:main",
+    #         "weather-reporter=weather_reporter.cli:main",sivant9994532266
+
     #     ]
     # },
 )
